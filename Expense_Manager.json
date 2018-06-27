@@ -1,0 +1,60 @@
+{"expenses" : [{
+    "transactionDate" : "15 May 2018",
+    "Amount" : "1200.00",
+    "category" : "Medical",
+    "description" : "Medical Bill"
+  }, {
+    "transactionDate" : "15 June 2018",
+    "Amount" : "1640.00",
+    "category" : "Home Decor",
+    "description" : "Curtains and pillow covers"
+  }, {
+    "transactionDate" : "7 April 2018",
+    "Amount" : "3475.00",
+    "category" : "Grocery",
+    "description" : "Monthly Grocery"
+  }, {
+    "transactionDate" : "23 March 2018",
+    "Amount" : "662.00",
+    "category" : "Food Items",
+    "description" : "Vegetables"
+  }, {
+    "transactionDate" : "30 May 2018",
+    "Amount" : "820.00",
+    "category" : "Food Items",
+    "description" : "Vegetables"
+  },
+  {
+    "transactionDate" : "15 May 2018",
+    "Amount" : "1200.00",
+    "category" : "Medical",
+    "description" : "Medical Bill"
+  }, {
+    "transactionDate" : "15 June 2018",
+    "Amount" : "1640.00",
+    "category" : "Home Decor",
+    "description" : "Curtains and pillow covers"
+  }, {
+    "transactionDate" : "7 April 2018",
+    "Amount" : "3475.00",
+    "category" : "Grocery",
+    "description" : "Monthly Grocery"
+  }, {
+    "transactionDate" : "23 March 2018",
+    "Amount" : "662.00",
+    "category" : "Food Items",
+    "description" : "Vegetables"
+  }, {
+    "transactionDate" : "30 May 2018",
+    "Amount" : "820.00",
+    "category" : "Food Items",
+    "description" : "Fruits"
+  }
+  
+  
+  
+  
+  
+  
+  ]
+}
